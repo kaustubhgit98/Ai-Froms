@@ -1,0 +1,13 @@
+{
+  "name": "formai",
+  "version": "5.0.0",
+  "description": "AI-powered Google Form Generator",
+  "type": "module",
+  "dependencies": {
+    "groq-sdk": "^0.7.0",
+    "googleapis": "^140.0.0"
+  },
+  "engines": {
+    "node": "24.x"
+  }
+}
